@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/com/blouk/fk/core/interfaces
+END
+IFk.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/com/blouk/fk/core/interfaces/IFk.as
+END
+IFkEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/com/blouk/fk/core/interfaces/IFkEvent.as
+END
+IFkManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/trunk/com/blouk/fk/core/interfaces/IFkManager.as
+END
